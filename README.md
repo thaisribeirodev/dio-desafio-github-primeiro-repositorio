@@ -1,6 +1,8 @@
 # Desafio de Projeto sobre Git/GitHub da DIO
 Repositório criado para o Desafio de Projeto.
 
+Curso realizado na plataforma [DIO - Digital Innovation One](https://web.dio.me) - "Criando seu Primeiro Repositório no GitHub para Compartilhar Seu Progresso" 
+
 ## Anotações
 ```
 git init //iniciar o git no respositório atual
